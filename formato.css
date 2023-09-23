@@ -1,0 +1,16 @@
+ html *
+{
+   font-size: 2 !important;
+   font-family: Monospace !important;
+}
+.c 
+{
+    max-width: 500px;
+    margin: auto;
+}
+.cimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
